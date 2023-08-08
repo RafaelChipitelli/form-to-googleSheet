@@ -64,7 +64,7 @@ $(document).ready(function() {
                 document.getElementById('endereço').value = '';
                 document.getElementById('CEP').value = '';
 
-                window.open('https://www.youtube.com/watch?v=w7SUjrKCdwE', '_blank');
+                window.open('https://www.youtube.com/watch?v=jfKfPfyJRdk', '_blank');
             });
         }
     }
